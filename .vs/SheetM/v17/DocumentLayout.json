@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\SheetM\\SheetM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52E4735A-D68C-4BC5-86A8-56D12060AF0A}|SheetM\\SheetM.csproj|D:\\C#\\SheetM\\SheetM\\sheetm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52E4735A-D68C-4BC5-86A8-56D12060AF0A}|SheetM\\SheetM.csproj|solutionrelative:sheetm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SheetM||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E4735A-D68C-4BC5-86A8-56D12060AF0A}|SheetM\\SheetM.csproj|d:\\c#\\sheetm\\sheetm\\sheetm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E4735A-D68C-4BC5-86A8-56D12060AF0A}|SheetM\\SheetM.csproj|solutionrelative:sheetm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E4735A-D68C-4BC5-86A8-56D12060AF0A}|SheetM\\SheetM.csproj|d:\\c#\\sheetm\\sheetm\\sheetm\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\SheetM\\SheetM\\SheetM\\Form1.cs",
+              "RelativeDocumentMoniker": "SheetM\\Form1.cs",
+              "ToolTip": "D:\\C#\\SheetM\\SheetM\\SheetM\\Form1.cs",
+              "RelativeToolTip": "SheetM\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:22:41.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SheetM",
+              "DocumentMoniker": "D:\\C#\\SheetM\\SheetM\\SheetM\\SheetM.csproj",
+              "RelativeDocumentMoniker": "SheetM\\SheetM.csproj",
+              "ToolTip": "D:\\C#\\SheetM\\SheetM\\SheetM\\SheetM.csproj",
+              "RelativeToolTip": "SheetM\\SheetM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-20T05:24:40.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\SheetM\\SheetM\\SheetM\\Form1.cs",
+              "RelativeDocumentMoniker": "SheetM\\Form1.cs",
+              "ToolTip": "D:\\C#\\SheetM\\SheetM\\SheetM\\Form1.cs [Design]",
+              "RelativeToolTip": "SheetM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:19:22.706Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
